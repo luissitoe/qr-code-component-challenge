@@ -35,6 +35,10 @@ body {
     background-color: var(--light-gray);
     font-family: var(--font-main);
     font-size: var(--fz-body);
+   
+}
+
+.container{
     display: flex;
     justify-content: center;
     align-items: center;
